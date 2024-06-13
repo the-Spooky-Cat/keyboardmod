@@ -1,6 +1,6 @@
 {
     "name": "Nice Keyboard",
-    "description": "CLACK CLACK CLACK :3",
+    "description": "CLICK CLACK CLACK :3",
     "developer":
     {
         "name": "Spooky Cat"
@@ -17,10 +17,8 @@
         {
             "background_music":
             [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
+                "music/lunar.mp3",
+                "music/ttww.mp3"
             ],
             "keyboard_sounds":
             {
@@ -30,13 +28,20 @@
                 ],
                 "TYPING_ENTER":
                 [
-                    "keyboard/enter.wav"
+                    "keyboard/enter_1.wav",
+					"keyboard/enter_2.wav",
                 ],
                 "TYPING_LETTER":
                 [
-                    "keyboard/letter_1.wav",
-                    "keyboard/letter_2.wav",
-                    "keyboard/letter_3.wav"
+                    "keyboard/key_1.wav",
+                    "keyboard/key_2.wav",
+                    "keyboard/key_3.wav",
+                    "keyboard/key_4.wav",
+                    "keyboard/key_5.wav",
+                    "keyboard/key_6.wav",
+                    "keyboard/key_7.wav",
+                    "keyboard/key_8.wav",
+                    "keyboard/key_9.wav"
                 ],
                 "TYPING_SPACE":
                 [
