@@ -30,6 +30,7 @@
                 [
                     "keyboard/enter_1.wav",
 					"keyboard/enter_2.wav",
+					"keyboard/enter_3.wav"
                 ],
                 "TYPING_LETTER":
                 [
@@ -38,16 +39,17 @@
                     "keyboard/key_3.wav",
                     "keyboard/key_4.wav",
                     "keyboard/key_5.wav",
-                    "keyboard/key_6.wav",
                     "keyboard/key_7.wav",
                     "keyboard/key_8.wav",
-                    "keyboard/key_9.wav"
+                    "keyboard/key_9.wav",
+                    "keyboard/key_10.wav"
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/space.wav"
+                    "keyboard/space_1.wav",
+					"keyboard/space_2.wav"
                 ]
-            },
+            }
         },
         "schema_version": 1
     },
